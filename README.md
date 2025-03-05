@@ -1,4 +1,4 @@
-# NFT Marketplace
+# Solana NFT Marketplace
 
 ## How it Works
 ![](how_it_works.jpg)
